@@ -8,7 +8,7 @@ import instaloader
 loader = instaloader.Instaloader()
 
 # Entre com seu nome de usuário e senha
-loader.login('USERNAME', 'PASSWORD')
+# loader.login('USERNAME, 'PASSWORD')
 
 # Define o token do bot do Telegram
 TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
